@@ -1,7 +1,7 @@
 # For Development Env.
 
-docker-compose up
+  docker-compose up
 
-#For Production Env.
+# For Production Env.
 
-docker-compose -f docker-compose-prod.yml up -d --build
+  docker-compose -f docker-compose-prod.yml up -d --build
